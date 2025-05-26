@@ -1,0 +1,10 @@
+# Build files
+build/
+*.o
+*.out
+*.exe
+
+# Editor/IDE
+.vscode/
+*.swp
+.DS_Store
